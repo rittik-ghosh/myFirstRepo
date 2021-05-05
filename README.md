@@ -8,4 +8,4 @@ For now i know:
 1. java
 1. javascript
 1. CHALK
-1.NODEjs
+1. NODEjs
